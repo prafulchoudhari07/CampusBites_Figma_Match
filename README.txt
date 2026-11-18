@@ -9,9 +9,7 @@ Pages:
 - contact.html (Contact Us)
 
 Technologies: HTML5, CSS3, Bootstrap 5 stylesheet, custom CSS.
-No JavaScript or backend is used. The contact form is a visual prototype only.
-Food and campus photographs were extracted from the PDF reference you supplied.
-Some college/contact details are placeholders and should be replaced before final submission.
+
 
 How to run:
 1. Open this folder in VS Code.
