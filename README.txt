@@ -1,0 +1,20 @@
+CampusBites — Figma-matched website starter
+================================================
+Pages:
+- index.html (Home)
+- menu.html (Food Menu)
+- offers.html (Special Offers)
+- about.html (About Us)
+- gallery.html (Gallery)
+- contact.html (Contact Us)
+
+Technologies: HTML5, CSS3, Bootstrap 5 stylesheet, custom CSS.
+No JavaScript or backend is used. The contact form is a visual prototype only.
+Food and campus photographs were extracted from the PDF reference you supplied.
+Some college/contact details are placeholders and should be replaced before final submission.
+
+How to run:
+1. Open this folder in VS Code.
+2. Trust the folder if VS Code asks.
+3. Install/enable Live Server.
+4. Right-click index.html > Open with Live Server.
