@@ -18,3 +18,6 @@ How to run:
 2. Trust the folder if VS Code asks.
 3. Install/enable Live Server.
 4. Right-click index.html > Open with Live Server.
+
+# Figma Prototype:
+https://www.figma.com/design/Q3DXxmEqc5krnftpCyarCc/campusBites?node-id=2-2&t=VXVhYB06IdyrYfJO-1
